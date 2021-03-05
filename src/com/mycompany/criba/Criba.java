@@ -1,4 +1,3 @@
-
 package com.mycompany.criba;
 /**
 * Clase para generar todos los números primos de 1 hasta
